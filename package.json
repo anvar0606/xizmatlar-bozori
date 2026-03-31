@@ -1,0 +1,22 @@
+{"name": "xizmatlar-bozori",
+ "version": "1.0.0",
+ "private": true,
+ "scripts": {
+   "start": "expo start",
+   "android": "expo run:android",
+   "ios": "expo run:ios",
+   "web": "expo start --web"
+ },
+ "dependencies": {
+   "expo": "~44.0.0",
+   "react": "17.0.1",
+   "react-native": "~0.64.3",
+   "react-navigation": "^4.4.4",
+   "react-navigation-stack": "^1.10.3",
+   "@react-native-async-storage/async-storage": "^1.15.0",
+   "axios": "^0.21.1"
+ },
+ "devDependencies": {
+   "@babel/core": "^7.0.0",
+   "@expo/webpack-config": "~0.14.0"
+ }}
