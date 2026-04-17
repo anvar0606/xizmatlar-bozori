@@ -20,3 +20,88 @@
    "@babel/core": "^7.0.0",
    "@expo/webpack-config": "~0.14.0"
  }}
+backgroundColor: '#007AFF',
+  },
+  title: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    color: '#fff',
+    marginBottom: 10,
+  },
+  price: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    color: '#fff',
+  },
+  ownerCard: {
+    margin: 15,
+    padding: 15,
+    backgroundColor: '#fff',
+    borderRadius: 8,
+  },
+  ownerLabel: {
+    fontSize: 12,
+    color: '#999',
+    marginBottom: 5,
+  },
+  ownerName: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    color: '#333',
+    marginBottom: 10,
+  },
+  rating: {
+    fontSize: 16,
+    color: '#FFC107',
+  },
+  section: {
+    margin: 15,
+    padding: 15,
+    backgroundColor: '#fff',
+    borderRadius: 8,
+  },
+  sectionTitle: {
+    fontSize: 16,
+    fontWeight: 'bold',
+    color: '#333',
+    marginBottom: 10,
+  },
+  description: {
+    fontSize: 14,
+    color: '#666',
+    lineHeight: 20,
+  },
+  notesInput: {
+    borderWidth: 1,
+    borderColor: '#ddd',
+    borderRadius: 8,
+    padding: 12,
+    fontSize: 14,
+    textAlignVertical: 'top',
+  },
+  buttonContainer: {
+    flexDirection: 'row',
+    marginHorizontal: 15,
+    marginVertical: 20,
+    gap: 10,
+  },
+  orderButton: {
+    flex: 1,
+    backgroundColor: '#007AFF',
+    paddingVertical: 14,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  chatButton: {
+    flex: 1,
+    backgroundColor: '#34C759',
+    paddingVertical: 14,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  buttonText: {
+    color: '#fff',
+    fontSize: 16,
+    fontWeight: 'bold',
+  },
+});
