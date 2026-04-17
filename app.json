@@ -1,0 +1,1 @@
+{"expo": {"name": "My App", "slug": "my-app", "version": "1.0.0", "sdkVersion": "46.0.0", "platforms": ["ios", "android"], "ios": {"bundleIdentifier": "com.mycompany.myapp"}, "android": {"package": "com.mycompany.myapp"}, "web": {"favicon": "./assets/favicon.png"}}}
